@@ -1,0 +1,226 @@
+Animal,part,disease,symptoms 1,Symptoms 2,Symptoms 3,Symptoms 4,Symptoms 5,Symptoms 6,Symptoms 7,severity,treatment
+dog,ear,otitis externa (outer ear infections),redness and swelling,ear scratching,foul odor in ear,discharge from the ear,shaking of the head, pain when touched,nil,low,Clean: Use a vet-recommended ear cleaner. Topical Treatments: Apply diluted apple  cider vinegar or coconut oil gently.Dietary Support: Consider omega-3 supplements.
+dog,ear,otitis media (middle ear infections),nil,ear scratching,foul odor in ear,discharge from the ear,shaking of the head,pain when touched,fever,medium,Warm Compress: Apply a warm compress to relieve pain. Herbal Oil: Use mullein or garlic oil cautiously.
+dog,ear,otitis interna (inner ear infections),walk in circles,facial paralysis,nystagmus,nil,shaking of the head,pain when touched,vomiting,high,Veterinary Care: Seek professional help immediately.
+dog,ear,ear tumor,swelling,facial paralysis,visible growth or mass,discharge from the ear,shaking of the head,pain when touched,nil,medium," try applying 1 drop of neem or castor oil to the tumor twice a day. Consider adding omega-3 fatty acid, probiotic, or L-carnitine amino acid supplements to your dog's diet as well."
+dog,ear, fungal otitis,scaly skin in ear,itchy and inflmed,foul odor in ear,discharge from the ear,nil,nil,nil,low,"clean ears with a vet-approved cleaner, use diluted apple cider vinegar, and apply coconut oil for soothing. Add probiotics to the diet and consider a grain-free diet to manage yeast."
+dog,ear,Otitis Externa,Ear scratching,Head shaking,Redness in ear,Foul odor,Swelling in ear,Ear discharge,Pain when touched,Moderate,Clean ear with vet-recommended solution; apply warm compress
+dog,ear,Ear Mites,Dark discharge,Ear scratching,Head shaking,Scabs around ear,Inflammation,Hair loss around ear,Foul odor,Mild,Clean ears regularly; apply mineral oil to affected area
+dog,ear,Yeast Infection,Brown ear discharge,Head shaking,Redness in ear,Smelly ear,Excessive ear wax,Swelling in ear,Ear scratching,Severe,Clean ear with anti-fungal ear solution; keep ears dry
+dog,ear,Bacterial Infection,Yellow-green discharge,Redness in ear,Pain in ear,Ear swelling,Ear scratching,Head tilt,Ear bleeding,Severe,Clean ear with antibacterial solution; apply warm compress
+dog,ear,Allergic Otitis,Ear scratching,Redness in ear,Head shaking,Ear discharge,Thickened ear tissue,Hair loss near ear,Ear swelling,Moderate,Clean ear gently; use hypoallergenic diet and topical ointments
+dog,ear,Foreign Object in Ear,Ear scratching,Head shaking,Redness in ear,Pawing at ear,Pain in ear,Swelling in ear,Ear discharge,Mild,Gently remove object if visible; clean with solution
+dog,ear,Ear Hematoma,Swollen ear flap,Pain in ear,Head shaking,Ear scratching,"Warm, soft swelling",Fluid buildup,Redness in ear,Severe,Apply cold compress; keep ear elevated; consult vet if persistent
+dog,ear,Polyps in Ear Canal,Ear discharge,Ear scratching,Head shaking,Swollen ear canal,Hearing loss,Pain in ear,Foul odor,Severe,Clean ear regularly; apply vet-recommended ear drops
+dog,ear,Fungal Otitis,Redness in ear,Scaly skin around ear,Ear discharge,Head shaking,Hair loss around ear,Pain in ear,Ear swelling,Severe,Clean ear with antifungal solution; keep ears dry
+dog,ear,Ear Wax Buildup,Brown ear discharge,Head shaking,Ear scratching,Smelly ear,Fullness in ear,Hearing loss,Pain when touched,Mild,Gently clean ear with a vet-approved cleaning solution
+dog,ear,Tick Infestation,Visible ticks,Ear scratching,Redness in ear,Head shaking,Scabs around ear,Ear discharge,Pain in ear,Mild,Remove ticks manually with tweezers; clean ear afterward
+dog,ear,Ear Abscess,Redness in ear,Pain in ear,Swollen ear canal,Pus-filled discharge,Fever,Lethargy,Swelling near ear,Severe,Apply warm compress; clean ear regularly; consult vet
+dog,ear,Ear Tumors,Ear discharge,Ear scratching,Redness in ear,Head shaking,Hearing loss,Swelling in ear,Pain in ear,Severe,Gently clean ear; consult vet for possible surgery
+dog,ear,Ear Dermatitis,Itchy ears,Redness in ear,Head shaking,"Dry, flaky skin",Ear scratching,Scabs around ear,Hair loss near ear,Mild,Apply soothing ointments; keep ears clean and dry
+dog,ear,Ear Canker,Foul-smelling discharge,Ear scratching,Head shaking,Redness in ear,Thick ear wax,Pain in ear,Ear swelling,Moderate,Clean ears with antiseptic solution; apply warm compress
+dog,ear,Middle Ear Infection,Loss of balance,Head tilt,Hearing loss,Ear discharge,Ear scratching,Pain in ear,Swollen ear canal,Severe,Keep ears clean; apply warm compress; consult vet
+dog,ear,Ear Fracture,Swollen ear,Ear scratching,Pain in ear,Fluid-filled swelling,Head shaking,Redness in ear,Ear discharge,Severe,Apply cold compress; wrap ear gently; consult vet
+dog,ear,Vestibular Disease,Head tilt,Loss of balance,Ear discharge,Nystagmus (eye movement),Circling,Vomiting,Hearing loss,Severe,Keep dog in safe area; apply vet-recommended ear drops
+dog,ear,Autoimmune Otitis,Redness in ear,Ear discharge,Ear scratching,Head shaking,Crusting around ear,Swelling in ear,Pain in ear,Severe,Clean ear gently; apply topical steroids; consult vet
+dog,ear,Flea Allergy Dermatitis,Ear scratching,Redness in ear,Head shaking,Hair loss around ear,Scabs around ear,Itchy ears,Swollen ear canal,Moderate,Use flea prevention; clean ears with antiseptic solution
+dog,ear,Ear Cartilage Injury,Swollen ear,Ear scratching,Head shaking,Pain in ear,Fluid buildup,Redness in ear,Ear discharge,Severe,Apply cold compress; consult vet for further treatment
+dog,ear,Ear Burns,Redness in ear,Swollen ear,Pain in ear,Blisters in ear,Head shaking,Ear discharge,Hair loss near ear,Moderate,Apply cold water to burn; apply soothing ointment
+dog,ear,Chronic Ear Infection,Persistent discharge,Redness in ear,Pain in ear,Head shaking,Ear swelling,Ear scratching,Hearing loss,Severe,Clean ear regularly; apply vet-recommended medications
+dog,ear,Ear Fungal Dermatitis,Redness in ear,Ear discharge,Scaly skin around ear,Hair loss around ear,Itchy ears,Pain in ear,Swelling near ear,Severe,Apply antifungal ointment; keep ear clean and dry
+dog,ear,Malassezia Infection,Brown ear discharge,Itchy ears,Redness in ear,Head shaking,Ear scratching,Swelling in ear,Pain in ear,Severe,Clean ear with anti-yeast solution; apply vet-recommended ear drops
+dog,ear,Pseudomonas Infection,Greenish discharge,Redness in ear,Pain in ear,Head shaking,Ear swelling,Foul odor,Ear discharge,Severe,Clean ear regularly; apply topical antibiotics
+dog,ear,Staph Infection,Yellow discharge,Ear swelling,Redness in ear,Pain in ear,Head shaking,Foul odor,Ear discharge,Severe,Clean ear with antibacterial solution; consult vet
+dog,ear,Eardrum Rupture,Hearing loss,Pain in ear,Ear discharge,Head shaking,Loss of balance,Redness in ear,Ear swelling,Severe,Keep ear dry and clean; avoid loud noises; consult vet
+dog,ear,Ear Papillomatosis,Ear warts,Ear scratching,Head shaking,Redness in ear,Pain in ear,Ear discharge,Swollen ear canal,Mild,Apply warm compress; consult vet if warts persist
+dog,ear,Ear Lice,Visible lice,Ear scratching,Head shaking,Redness in ear,Scabs around ear,Hair loss near ear,Ear discharge,Mild,Use lice prevention treatments; clean ears with antiseptic solution
+dog,eye,Conjunctivitis,Red eyes,Teary eyes,Swollen eyelids,Discharge from eyes,Itchy eyes,Squinting,Eye rubbing,Mild,"Clean eyes with saline solution, apply warm compresses"
+dog,eye,Corneal Ulcer,Cloudy formation,Redness in the eye,Eye discharge,Sensitivity to light,Excessive blinking,Eye pain,Tearing,Severe,"Keep eye clean, avoid irritants, use artificial tears, seek vet attention for prescription meds"
+dog,eye,Cataracts,Cloudy eyes,Vision loss,Eye swelling,Disorientation,Lethargy,Difficulty seeing,Increased clumsiness,Severe,"Provide a clear environment, manage diet, vet check-up for cataract surgery advice"
+dog,eye,Dry Eye (Keratoconjunctivitis),Thick eye mucus,Dry eyes,Blinking excessively,Redness,Irritated eyes,Sticky discharge,Eye rubbing,Moderate,"Use artificial tears, clean eyes with saline, avoid smoke or dust"
+dog,eye,Entropion,Swollen eyelids,Tearing eyes,Eye discharge,Eyelids rolled inward,Blinking excessively,Redness in the eye,Squinting,Severe,"Clean eyes with saline solution, use cold compresses, vet visit for potential surgical options"
+dog,eye,Glaucoma,Cloudy eyes,Redness in the eye,Painful eyes,Enlarged eye appearance,Vision loss,Tearing,Head pressing,Severe,"Administer vet-prescribed eye drops, limit stress, consult vet for pressure management"
+dog,eye,Cherry Eye,Pink/red bulge,Swollen eyes,Tearing eyes,Eye rubbing,Discharge from eyes,Irritation,Squinting,Moderate,"Apply warm compresses, keep the eye clean, avoid irritation, vet visit for possible surgery"
+dog,eye,Corneal Dystrophy,Cloudy eyes,Vision loss,White or gray opacity,Tearing,Discharge,Painful eyes,Sensitivity to light,Moderate,"Keep eyes clean, use artificial tears, consult vet for ongoing treatment"
+dog,eye,Eye Injury,Squinting,Red eyes,Pain in the eye,Swelling around the eye,Tearing,Discharge,Light sensitivity,Severe,"Flush eye with saline, apply cold compress, prevent scratching or rubbing, vet consultation"
+dog,eye,Uveitis,Red eyes,Cloudy eyes,Sensitivity to light,Squinting,Discharge,Eye pain,Tearing,Severe,"Keep dog calm, avoid bright lights, vet-prescribed medication needed"
+dog,eye,Eyelid Tumor,Lump on eyelid,Swollen eyelid,Discharge,Eye redness,Tearing,Eye rubbing,Vision impairment,Severe,"Clean eye with saline, apply cold compress, consult vet for biopsy and treatment options"
+dog,eye,Hyphema,Blood in the eye,Squinting,Painful eyes,Eye swelling,Tearing,Discharge,Light sensitivity,Severe,"Keep dog calm, limit movement, prevent further injury, vet emergency visit for bleeding control"
+dog,eye,Lens Luxation,Cloudy eyes,Eye pain,Vision loss,Squinting,Discharge,Head shaking,Redness,Severe,"Avoid stress, vet-prescribed medication, vet visit for surgical advice"
+dog,eye,Ectropion,Drooping eyelids,Dry eyes,Tearing,Eye redness,Thick discharge,Blinking excessively,Eye rubbing,Moderate,"Clean eyes regularly, use artificial tears, consult vet for ongoing care"
+dog,eye,Optic Neuritis,Sudden vision loss,Cloudy eyes,Eye pain,Head pressing,Tearing,Blinking excessively,Light sensitivity,Severe,"Prevent injury, keep environment safe, consult vet for immediate attention"
+dog,eye,Blepharitis,Red eyelids,Swollen eyelids,Crusty discharge,Tearing,Itchy eyes,Eye rubbing,Blinking excessively,Moderate,"Clean eyelids with warm water, apply warm compresses, consult vet for eye drops"
+dog,eye,Pink Eye (Allergic Conjunctivitis),Itchy eyes,Redness in the eye,Swollen eyelids,Discharge from eyes,Blinking excessively,Tearing,Squinting,Mild,"Use saline solution to clean eyes, keep the dog away from allergens"
+dog,eye,Retinal Atrophy,Vision loss,Disorientation,Clumsiness,Cloudy eyes,Eye pain,Difficulty seeing,Tearing,Severe,"Provide safe environment, avoid moving furniture, regular vet checkups for managing condition"
+dog,eye,Epiphora,Excessive tearing,Red eyes,Eye discharge,Swollen eyelids,Squinting,Eye irritation,Eye rubbing,Mild,"Clean area around eyes, use saline, avoid allergens, consult vet for tear duct issues"
+dog,eye,Foreign Body (Eye),Squinting,Tearing,Redness in the eye,Discharge,Painful eyes,Swelling,Eye rubbing,Severe,"Rinse eye with saline solution, avoid rubbing, vet consultation for foreign object removal"
+dog,eye,Eyelid Inflammation,Swollen eyelids,Redness in the eye,Tearing,Discharge,Eye rubbing,Painful eyes,Blinking excessively,Moderate,"Clean eyes with warm water, apply warm compresses, consult vet for eye drops"
+dog,eye,Corneal Abrasion,Red eyes,Tearing,Eye pain,Squinting,Discharge,Sensitivity to light,Blinking excessively,Severe,"Rinse eye with saline, prevent scratching, seek vet care for healing options"
+dog,eye,Keratitis,Cloudy eyes,Sensitivity to light,Eye redness,Eye pain,Tearing,Swollen eyelids,Eye discharge,Severe,"Avoid bright lights, use artificial tears, consult vet for medicated drops"
+dog,eye,Eye Infection,Redness in the eye,Discharge,Swollen eyelids,Itchy eyes,Tearing,Blinking excessively,Eye pain,Moderate,"Clean eyes with saline solution, apply warm compress, vet consultation for antibiotic drops"
+dog,eye,Canine Distemper (Eye Signs),Red eyes,Eye discharge,Dry eyes,Tearing,Light sensitivity,Swollen eyelids,Blinking excessively,Severe,"Keep dog hydrated, provide a calm environment, vet treatment for managing viral infection"
+dog,eye,Third Eyelid Prolapse,Visible third eyelid,Tearing,Red eyes,Eye rubbing,Swollen eyelids,Eye discharge,Blinking excessively,Severe,"Apply warm compress, keep area clean, vet consultation for surgical options"
+dog,eye,Retinal Detachment,Sudden vision loss,Cloudy eyes,Red eyes,Disorientation,Eye pain,Blinking excessively,Tearing,Severe,"Avoid stress, vet consultation for immediate care, potential surgery"
+dog,eye,Eye Worms,Eye irritation,Red eyes,Tearing,Discharge from eyes,Eye pain,Swollen eyelids,Squinting,Severe,"Rinse eyes with saline solution, consult vet for deworming medications"
+dog,eye,Pannus,Cloudy eyes,Redness in the eye,Sensitivity to light,Tearing,Discharge,Eye pain,Squinting,Moderate,"Avoid bright sunlight, provide eye protection, consult vet for ongoing medication"
+dog,eye,Myiasis (Eye Fly Larvae),Eye irritation,Red eyes,Eye discharge,Swelling,Tearing,Eye pain,Visible larvae,Severe,"Flush eye with saline, prevent further scratching, immediate vet care for removal"
+dog,eye,Scleritis,Eye redness,Cloudy eyes,Eye pain,Light sensitivity,Tearing,Eye swelling,Squinting,Severe,"Administer prescribed medication, avoid bright lights, consult vet for ongoing care"
+dog,eye,conjunctivitis (pink eye),redness,swollen eyelids,watery  discharge,squinting, crusty buildup around the eyes,nil,nil,low,"sterile saline eye wash solutions gently once or twice daily to clean discharge from around your dog's eye and to flush dust, pollens, and debris away from his eye."
+dog,eye,corneal ulcers,cloudy eyes,sensitivity to light,excessive tearing,squinting,nil,nil,nil,high,rinse with saline solution . apply vet-approved antibiotic ointment.use artificial tears to lubricate
+dog,eye,dry eye,redness,crusty buildup,thick discharge,sensitivity to light,cloudy eyes,nil,nil,high,clean eyes with saline solution. apply vet-prescribed cyclosporine or tacrolimus eye ointment
+dog,eye,cherry eye,pink lump in the corner of the eye,irritation,watery eyes,swelling around the eye,nil,nil,nil,low,"gently massage the eye with a warm, clean cloth.put  maxidex pure steroid solution ointment"
+dog,eye,glaucoma,vision loss,redness,excessive tearing,dilated pupil,swellen eye,nil,nil,medium, apply vet-recommended eye drops for reducing pressure.use cold compress to soothe pain
+dog,eye,uveitis,change in eye color,squinting,behavioural change,uneven pupil size,cloudy eyes,sensitivity to light,nil,medium,"apply a warm compress, saline solution, and artificial tears to soothe the eye. Coconut oil around the eye and vet-approved anti-inflammatory drops can help reduce inflammation."
+dog,eye,cataracts,bumping into objects,difficulty navigating,vision less,dilated pupil,cloudy eyes,nil,nil,high, surgery is the only option for cataracts once they have formed.
+dog,eye,retinal  dysplasia,poor night vision,change in behaviour,abnormal retinal structure,sudden blindness,sensitivity to light,nil,nil,low,"provide an antioxidant-rich diet, omega-3 supplements, and ensure good lighting. Use dog-safe sunglasses for protection"
+dog,eye,ectropion,inward-turned eyelids,redness,tearing,eye irritation, droopy lower eyelid,nil,nil,low,"use saline eye rinses, artificial tears, and warm compresses. Protect the eyes with dog goggles, and add omega-3 supplements to their diet. "
+,,,,,,,,,,,
+dog,skin,hot spots,foul odor,hair loss,scratching,scabs or crusting,warm to touch,nil,nil,medium,clean the area with mild soap and water. appl y a topical antibiotic ointment (like neosporin). use an elizabethan collar to prevent licking.
+dog,skin,flea allergy dermatitis, scratching,irritated skin,hair loss,flea dirt,skin infections,hot spots,nil,high,regular flea prevention.bath with oatmeal shampoo.use antihistamines 
+dog,skin,mange,intense itching,scaly patches,hair loss,secondary infections,crusty lesion,foul odor,nil,low, bathe with medicated shampoos.topical treatments or oral medications
+dog,skin,yeast infection,"itchy, inflamed skin",brown discharge,hair loss,thickened skin,foul odor,redness,nil,medium,clean ears with a vet-recommended solution. apply antifungal cream or ointment (like clotrimazole).
+dog,skin,bacterial skin infection,hair loss,bad odor,crusting,itching,itchy skin,nil,nil,high,"clean affected areas with antiseptic solution,apply topical antibiotics (like neosporin),consider antibacterial shampoo."
+dog,skin,allergic dermatitis,itching ,swelling,hair loss,dry skin,hotspots,skin infection,redness,low,"identify and eliminate allergens, use oatmeal shampoo,apply hydrocortisone cream"
+dog,skin,ringworm (fungal infection),"circular, scaly patches",hair loss,itching,rednss,dry skin,crusty lesions,circular patches,medium,"apply antifungal cream (like clotrimazole),clean surfaces with antifungal solution,bathe with antifungal shampoo."
+dog,skin,seborrhea,dry skin,greasy pathches,odor,redness,itchy skin,hair loss,inflamed skin,high,"regular baths with medicated shampoo, apply omega-3 fatty acids (supplements),use soothing creams for irritation."
+dog,skin,dermatitis (contact or irritant),red skin,itching,possible blister,swelling,crusting,hair loss,nil,low,"identify and remove irritants,clean the area with mild soap,apply soothing aloe vera gel or hydrocortisone cream "
+dog,skin,lick granulomas,"licking, biting at a specific area",thickened skin,red lesions,scabbing,hair losss,licking at specific area,nil,high,"apply bitter-tasting sprays to deter licking,use topical antibiotics (like neosporin),prevent access to the area with an elizabethan collar."
+dog,skin,panniculitis,swollen lumps under the skin,hair loss,lethargy,loss of appetite,fever,nil,nil,low,"consult a vet for accurate diagnosis,warm compresses may provide relief,treat any underlying infections with prescribed medications."
+dog,skin,calluses,thickened skin,hair loss,pain when touched,dry pathches,inflammation,flaky patches,nil,medium,"regularly moisturize with dog-safe creams,use a soft cloth to rub the area,apply aloe vera gel for soothing relief."
+dog,skin,Flea Allergy Dermatitis,Intense itching,Red bumps,Hair loss,Skin infections,Scabs,Hot spots,Irritated skin,Mild,"Use flea control products, oatmeal baths, cool compress"
+dog,skin,Mange (Sarcoptic),Hair loss,Red skin,Crusty patches,Intense scratching,Sores,Secondary infection,Inflamed skin,Severe,"Benzoyl peroxide shampoo, warm baths, moisturize skin"
+dog,skin,Hot Spots,"Red, inflamed area","Moist, oozing skin",Crusty skin,Hair loss,Itching,Pain,"Hot, tender to touch",Mild,"Clean with antiseptic, apply hydrocortisone cream"
+dog,skin,Ringworm,Circular hair loss,"Red, raised skin",Itchy patches,Flaky skin,Brittle hair,Inflamed skin,Crusty spots,Moderate,"Apply antifungal creams, keep area clean and dry"
+dog,skin,Atopic Dermatitis,Constant scratching,"Red, swollen skin",Biting of paws,Hair loss,Skin infections,Ear infections,Dry skin,Severe,"Use hypoallergenic shampoos, moisturize, cool baths"
+dog,skin,Pyoderma,Pus-filled lesions,Red skin,Itching,Crusting,Hair loss,Secondary infections,Inflamed skin,Severe,"Antibacterial shampoos, warm compress, avoid allergens"
+dog,skin,Seborrhea,"Greasy, oily skin",Flaky dandruff,Redness,Odor from skin,Thickened skin,Scratching,Hair loss,Moderate,"Medicated baths, moisturizers, Omega-3 fatty acid supplements"
+dog,skin,Canine Acne,"Small, red bumps",Pustules on chin,Swollen muzzle,Redness,Painful bumps,Crusty skin,Hair loss,Mild,"Use benzoyl peroxide washes, keep area clean"
+dog,skin,Impetigo,Pustules on belly,Red skin,Crusty lesions,Hair loss,Blisters,Itching,Inflamed skin,Mild,"Clean with antiseptic, apply antibiotic ointment"
+dog,skin,Yeast Infections,"Greasy, smelly skin",Redness,Thickened skin,Hair loss,Scratching,Discharge,Flaky skin,Moderate,"Apple cider vinegar rinses, antifungal creams, dry skin well"
+dog,skin,Interdigital Cysts,Swelling between toes,Redness,Lumps under skin,Painful when walking,Pus-filled lumps,Limping,Crusting,Moderate,"Warm compress, Epsom salt soaks, avoid irritants"
+dog,skin,Fungal Dermatitis,Red skin,Itchy,Thickened skin,Scaly patches,Hair loss,Sores,Flaking skin,Severe,"Antifungal shampoos, medicated baths, keep dry"
+dog,skin,Solar Dermatitis,Redness on nose,Crusty skin,Ulcers,Peeling skin,Hair loss,Swollen skin,Painful patches,Moderate,"Apply sunscreen for dogs, avoid sun exposure"
+dog,skin,Hives (Urticaria),Raised bumps,Itchy patches,Swelling,Red skin,Hair loss,Inflamed skin,Skin welts,Mild,"Apply cool compresses, oatmeal baths, avoid allergens"
+dog,skin,Contact Dermatitis,"Red, itchy skin",Hair loss,Swelling,Blisters,Dry skin,Irritated skin,Scratching,Moderate,"Use hypoallergenic soaps, moisturize, avoid contact allergens"
+dog,skin,Skin Tumors,Lumps under skin,Swelling,Red skin,Pus-filled lesions,Ulcers,Crusting,Itching,Severe,"Apply warm compress, monitor lumps, see vet if enlarging"
+dog,skin,Dry Skin,Flaking,Dandruff,Itchy skin,Cracking skin,Redness,Hair loss,Irritated skin,Mild,"Use coconut oil, oatmeal baths, increase Omega-3 fatty acids"
+dog,skin,Skin Abscess,"Swollen, warm area",Redness,Painful lumps,Pus-filled bump,Hair loss,Crusting,Inflamed skin,Severe,"Clean with antiseptic, apply warm compress, monitor swelling"
+dog,skin,Alopecia,Hair loss,Bald patches,Scaly skin,Redness,Flaking skin,Itching,Dry skin,Mild,"Apply hydrating creams, oatmeal baths, use fish oil supplements"
+dog,skin,Skin Fold Dermatitis,Redness in skin folds,Odor from folds,"Moist, inflamed",Crusty patches,Scratching,Painful areas,Swelling,Moderate,"Clean folds daily, apply antifungal powders, keep area dry"
+dog,skin,Ticks Infestation,Itchy skin,Red bumps,Hair loss,Skin infections,Scratching,Scabs,Irritated skin,Severe,"Remove ticks, apply tick control treatment, clean bites"
+dog,skin,Mosquito Bite Allergy,Raised welts,Itching,Red skin,Hair loss,Swollen skin,Inflamed areas,Scratching,Mild,"Apply antihistamine cream, cool compress, avoid mosquitoes"
+dog,skin,Food Allergy Dermatitis,Constant scratching,Red skin,Hair loss,Itchy paws,Ear infections,Sores,Swollen skin,Moderate,"Switch to hypoallergenic diet, bathe with soothing shampoo"
+dog,skin,Skin Lacerations,Cuts on skin,Bleeding,"Red, inflamed skin",Painful areas,Scabbing,Swelling,Hair loss,Severe,"Clean wound with antiseptic, apply bandage, prevent licking"
+dog,skin,Skin Ulcers,Open sores,"Red, inflamed skin",Pus-filled ulcers,Itching,Painful sores,Hair loss,Swollen skin,Severe,"Clean with antiseptic, apply wound care ointments, cover area"
+dog,skin,Hypothyroidism,"Dry, flaky skin",Hair loss,Scaly skin,Redness,Itching,Swollen skin,Weight gain,Moderate,"Increase Omega-3 fatty acids, use hypoallergenic shampoos"
+dog,skin,Skin Allergy,Itchy skin,Redness,Scratching,Hair loss,Scabs,Dry skin,Swelling,Mild,"Use antihistamines, bathe with soothing oatmeal shampoo"
+dog,skin,Bacterial Dermatitis,Red skin,Pus-filled bumps,Itching,Crusty lesions,Hair loss,Inflamed skin,Scabbing,Severe,"Antibacterial shampoos, warm compresses, avoid irritants"
+dog,skin,Folliculitis,Pustules near hair follicles,Red skin,Hair loss,Itching,Swollen skin,Inflamed follicles,Crusty patches,Moderate,"Medicated baths, apply antibiotic cream, keep area clean"
+dog,skin,Skin Papilloma,Warts on skin,Itchy,Redness,Swollen skin,Scabbing,Hair loss,Irritated skin,Mild,"Apply antiviral creams, keep area clean, monitor growths"
+dog,skin,Skin Tag Irritation,"Red, inflamed tag",Swollen skin,Itching,Irritated area,Scabbing,Painful when touched,Hair loss,Mild,"Apply antiseptic cream, monitor for changes, keep area clean"
+dog,,,,,,,,,,,
+dog,paw,Paw Pad Burn,Redness,Swelling,Limping,Blisters,Cracked Pads,Licking Paws,Reluctance to walk,Moderate,"Cool compress, Paw balm, Avoid walking on hot surfaces"
+dog,paw,Interdigital Cysts,Lumps between toes,Redness,Swelling,Pain when walking,Discharge,Licking between toes,Inflammation,Moderate,"Warm saline soaks, Antibiotic cream, Paw protection"
+dog,paw,Torn Paw Pad,Bleeding,Torn skin,Pain when walking,Limping,Sensitivity,Cracked Pads,Reluctance to walk,Severe,"Clean wound, Bandage paw, Keep dog resting"
+dog,paw,Pododermatitis,Redness,Swollen paws,Licking paws,Warm to touch,Pus-filled sores,Inflammation,Pain when touched,Moderate,"Clean paw, Apply antiseptic, Antibiotic ointment"
+dog,paw,Paw Infection,Swelling,Redness,Warm paw,Discharge,Bad odor,Pain when walking,Licking Paws,Severe,"Clean with saline, Apply antiseptic, Rest paws"
+dog,paw,Frostbite,Pale or blue pads,Cold paw,Stiff pads,Pain when touched,Cracking skin,Reluctance to walk,Licking Paws,Severe,"Warm water soak, Dry thoroughly, Wrap in dry bandage"
+dog,paw,Allergic Dermatitis,Redness,Swelling,Itching,Licking paws,Hair loss,Scaly skin,Paw irritation,Mild,"Anti-itch cream, Bath with oatmeal shampoo, Avoid allergens"
+dog,paw,Corns (on paw pads),Hard lump on pads,Limping,Pain when walking,Thickened pad skin,Cracked Pads,Redness,Licking Pads,Moderate,"Soak paw, Pad protection, Avoid rough surfaces"
+dog,paw,Ingrown Toenail,Swelling around nail,Pain when walking,Redness,Bleeding,Licking nails,Difficulty walking,Inflammation,Moderate,"Trim nail carefully, Antiseptic, Keep paws clean"
+dog,paw,Foreign Object in Paw,Limping,Paw licking,Redness,Swelling,Bleeding,Pain when touched,Reluctance to walk,Severe,"Remove object, Clean wound, Bandage if needed"
+dog,paw,Nail Bed Infection,Swollen nail bed,Redness,Pain when touched,Licking nails,Bleeding,Discharge,Reluctance to walk,Moderate,"Clean with antiseptic, Bandage nail, Rest paws"
+dog,paw,Paw Pad Hyperkeratosis,Thickened pads,Cracked Pads,Limping,Pain when walking,Dryness,Swelling,Paw irritation,Moderate,"Moisturize pads, Pad protection, Avoid hot surfaces"
+dog,paw,Paw Laceration,Bleeding,Torn skin,Limping,Swelling,Pain when walking,Inflammation,Redness,Severe,"Clean wound, Bandage, Rest paws"
+dog,paw,Paw Pad Abrasion,Redness,Cracked Pads,Pain when walking,Swelling,Sensitivity,Dry pads,Licking Paws,Moderate,"Clean pads, Apply balm, Avoid rough surfaces"
+dog,paw,Broken Toenail,Bleeding,Pain when walking,Swollen toe,Redness,Paw licking,Nail misalignment,Reluctance to walk,Severe,"Trim nail carefully, Bandage toe, Avoid running"
+dog,paw,Paw Blisters,Redness,Blister formation,Limping,Pain when walking,Sensitivity,Licking Paws,Cracked Pads,Moderate,"Cool compress, Clean blister, Avoid walking on hot surfaces"
+dog,paw,Hot Spots on Paw,Redness,Oozing sores,Constant scratching,Licking paws,Pain when touched,Inflammation,Warm to touch,Moderate,"Antiseptic spray, Keep dry, Bandage paw if needed"
+dog,paw,Tick Bite on Paw,Swelling,Redness,Pain when touched,Paw licking,Irritation,Limping,Warm to touch,Moderate,"Remove tick, Clean area, Apply antiseptic"
+dog,paw,Nail Fungus,Thickened nails,Discolored nails,Pain when walking,Nail brittleness,Swollen nail bed,Licking nails,Redness,Moderate,"Clean with antifungal solution, Bandage nails"
+dog,paw,Salt Irritation (Winter),Redness,Cracked Pads,Licking Paws,Swelling,Pain when walking,Dryness,Irritation,Mild,"Rinse paws, Moisturize pads, Avoid salt exposure"
+dog,paw,Paw Corn,Lump under pad skin,Pain when walking,Limping,Thickened pads,Redness,Cracked Pads,Licking Paws,Moderate,"Soak paw, Apply protective pad cream"
+dog,paw,Paw Burn (Chemicals),Redness,Blister formation,Limping,Pain when walking,Swelling,Sensitivity,Cracked Pads,Severe,"Wash paw with water, Cool compress, Bandage"
+dog,paw,Arthritis (Paw Joint),Swollen paw joints,Stiffness when walking,Pain in paw joints,Limping,Reluctance to move,Inflammation,Licking paws,Moderate,"Warm compress, Gentle massage, Joint supplements"
+dog,paw,Broken Paw Bone,Limping,Swelling,Pain when touched,Reluctance to walk,Paw deformity,Licking paw,Bruising,Severe,"Immobilize paw, Apply cold compress, Rest paws"
+dog,paw,Paw Pad Bruising,Redness,Swelling,Bruising,Pain when walking,Sensitivity,Limping,Licking Paws,Moderate,"Cold compress, Rest paw, Avoid rough surfaces"
+dog,paw,Calluses on Paw Pads,Thickened pads,Cracked Pads,Redness,Sensitivity,Limping,Licking Paws,Paw irritation,Moderate,"Moisturize pads, Avoid rough surfaces"
+dog,paw,Splinter in Paw,Swelling,Redness,Pain when walking,Licking Paws,Paw sensitivity,Bleeding,Limping,Moderate,"Remove splinter, Clean wound, Apply antiseptic"
+dog,paw,Blisters from Walking,Redness,Blisters,Limping,Pain when walking,Cracked Pads,Licking Paws,Sensitivity,Mild,"Clean blisters, Apply paw balm, Avoid rough surfaces"
+dog,,,,,,,,,,,
+dog,tongue,Glossitis,Swollen Tongue,Redness,Difficulty Eating,Excessive Salivation,Tongue Sores,Bad Breath,Lethargy,Moderate,"Provide ice chips, rinse with saltwater solution, offer soft foods."
+dog,tongue,Canine Oral Papillomatosis,Wart-Like Growth,Bleeding Gums,Drooling,Chewing Difficulty,Pain,Mouth Odor,Tongue Swelling,Mild,"Use coconut oil, maintain hydration, soft diet until the warts heal."
+dog,tongue,Lingual Hematoma,Blood Blisters,Bruising on Tongue,Painful Tongue,Discomfort While Eating,Swelling,Discoloration,Lethargy,Severe,"Apply cold compress, offer soft foods, ensure rest, and visit a vet if condition worsens."
+dog,tongue,Ulcerative Stomatitis,Tongue Ulcers,Pain While Eating,Drooling,Foul Odor,Swollen Tongue,Tongue Discoloration,Refusal to Eat,Severe,"Clean tongue with saline, feed soft foods, ensure hydration, and visit a vet if ulcers persist."
+dog,tongue,Salivary Mucocele,Excessive Drooling,Swollen Glands,Soft Swelling Under Tongue,Difficulty Swallowing,Pain When Eating,Foul Smell,Tongue Enlargement,Moderate,"Massage the area gently, provide soft foods, and keep the area clean until swelling reduces."
+dog,tongue,Thrush (Fungal Infection),White Tongue Spots,Red Tongue,Bad Breath,Tongue Pain,Loss of Appetite,Excessive Salivation,Fatigue,Mild,"Rinse mouth with diluted baking soda solution, ensure proper hydration, and offer soft foods."
+dog,tongue,Tongue Foreign Body,Visible Object,Pawing at Mouth,Gagging,Difficulty Eating,Drooling,Tongue Swelling,Discomfort,Severe,"Remove the object if visible and safe to do so; otherwise, consult a vet immediately."
+dog,tongue,Canine Stomatitis,Tongue Inflammation,Bleeding Tongue,Difficulty Chewing,Mouth Odor,Drooling,Refusal to Eat,Tongue Sensitivity,Severe,"Rinse with saltwater, ensure a soft diet, and seek veterinary care if inflammation persists."
+dog,tongue,Tongue Tumor,Tongue Lump,Pain While Eating,Swelling,Difficulty Swallowing,Discomfort,Drooling,Bad Breath,Moderate,"Maintain hydration, offer soft food, and consult a vet for further evaluation of the tumor."
+dog,tongue,Oral Candidiasis,White Tongue Patches,Loss of Appetite,Tongue Pain,Swollen Tongue,Difficulty Swallowing,Drooling,Irritability,Mild,"Provide a diluted hydrogen peroxide rinse, soft foods, and consult a vet for antifungal treatment"
+dog,,,,,,,,,,,
+dog,mouth,Gingivitis,"Red, swollen gums",Bad breath,Bleeding gums,Pain while chewing,Loss of appetite,Drooling,Receding gums,Medium,Brushing teeth with dog-safe toothpaste
+dog,mouth,Periodontal Disease,Loose teeth,Gum recession,Bad breath,Difficulty eating,Swollen gums,Yellowish teeth,Pain while chewing,High,Dental chews and brushing
+dog,mouth,Mouth Ulcers,Open sores in mouth,Drooling,Bad breath,Pain while eating,Bleeding,Swollen lips,Pawing at mouth,High,Saline rinse and soft food
+dog,mouth,Canine Oral Papillomavirus,Warts around mouth,Difficulty eating,Bad breath,Excessive drooling,Bleeding warts,Discomfort,Pawing at mouth,Medium,"Monitor, soft food, and hydration"
+dog,mouth,Stomatitis,"Red, inflamed mouth lining",Drooling,Bad breath,Pain when eating,Swollen gums,Difficulty swallowing,Bleeding,High,Rinse mouth with saline solution
+dog,mouth,Tooth Abscess,Swelling near tooth,Pus discharge,Pain while chewing,Refusal to eat,Red gums,Bad breath,Fever,High,Warm compress and soft food
+dog,mouth,Oral Tumors,Lump in mouth,Bleeding,Difficulty eating,Swollen jaw,Weight loss,Drooling,Bad breath,High,Monitor and soft food
+dog,mouth,Broken Tooth,Visible crack in tooth,Pain while eating,Drooling,Chewing on one side,Bad breath,Bleeding gums,Sensitivity to touch,Medium,Cold compress and soft food
+dog,mouth,Lip Fold Dermatitis,Inflammation of lip folds,Bad smell,Moist skin,Redness,Itching,Crusty skin,Swollen lips,Low,Clean with antiseptic solution
+dog,mouth,Canine Distemper (Oral Phase),Mouth ulcers,Thick discharge from eyes,Fever,Vomiting,Coughing,Loss of appetite,Nasal discharge,High,Hydration and rest
+dog,mouth,Dental Caries (Cavities),Visible holes in teeth,Bad breath,Pain while chewing,Tooth sensitivity,Discolored teeth,Bleeding gums,Drooling,Medium,Brushing and dental chews
+dog,mouth,Canine Herpesvirus,Sores around mouth,Sneezing,Coughing,Fever,Runny nose,"Red, inflamed gums",Refusal to eat,High,Soft food and hydration
+dog,mouth,Oral Foreign Body,Object stuck in mouth,Drooling,Gagging,Difficulty eating,Pawing at mouth,Swollen mouth,Bad breath,High,"Remove object if safe, rinse mouth"
+dog,mouth,Oral Hematoma,Swelling inside mouth,Pain while eating,Bleeding,Refusal to eat,Drooling,Bruising,Visible lump,Medium,Cold compress
+dog,mouth,Salivary Mucocele,Swollen glands under tongue,Drooling,Difficulty swallowing,Pain while eating,Swollen jaw,Mouth breathing,Bad breath,High,Hydration and monitor
+dog,mouth,Oral Trauma,Bleeding from mouth,Swollen lips or jaw,Difficulty eating,Pain while chewing,Broken teeth,Drooling,Bruising,High,"Cold compress, soft food"
+dog,mouth,Tartar Buildup,Yellow or brown teeth,Bad breath,Bleeding gums,Receding gums,Loose teeth,Pain while chewing,Gum inflammation,Medium,Dental chews and brushing
+dog,mouth,Glossitis,"Red, inflamed tongue",Drooling,Pain while chewing,Bad breath,Difficulty eating,Swollen tongue,Ulcers on tongue,Medium,Rinse with saline solution
+dog,mouth,Cheilitis,Inflammation of lips,Cracking of skin,Bleeding,Pain while eating,Dry mouth,Swollen lips,Bad breath,Medium,Apply ointment and keep area dry
+dog,mouth,Pharyngitis,Swollen throat,Difficulty swallowing,Coughing,Gagging,Drooling,Bad breath,Loss of appetite,Medium,Hydration and soft food
+dog,mouth,Tonsillitis,Swollen tonsils,Coughing,Difficulty swallowing,Drooling,Pawing at mouth,Bad breath,Fever,Medium,Soft food and hydration
+dog,mouth,Fungal Infection (Oral),White patches in mouth,Bad breath,Drooling,Pain while eating,Swollen gums,Bleeding,Discomfort,Medium,Rinse with saline solution
+dog,mouth,Canine Oral Thrush,White coating on tongue,Red gums,Bad breath,Pain while chewing,Loss of appetite,Drooling,Difficulty swallowing,Medium,Rinse with saline and soft food
+dog,mouth,Cracked Tongue,Visible cracks on tongue,Bleeding,Drooling,Pain while eating,Bad breath,Swollen tongue,Difficulty swallowing,Medium,Apply honey or soft food
+dog,mouth,Palatitis,Inflammation of palate,"Red, swollen palate",Pain while eating,Bleeding,Drooling,Bad breath,Loss of appetite,High,Rinse with saline solution
+dog,mouth,Oral Cyst,Lump inside mouth,Swollen gums,Pain while chewing,Bleeding,Difficulty swallowing,Drooling,Bad breath,Medium,"Monitor, soft food"
+dog,mouth,Dog Bite (Mouth Injury),Puncture wounds on lips,Swollen mouth,Bleeding,Pain while chewing,Visible cuts,Drooling,Bad breath,High,Clean wound with antiseptic solution
+dog,mouth,Oral Allergy Reaction,Swollen lips or tongue,Itching,Drooling,Swollen mouth,Bad breath,Pawing at mouth,Difficulty breathing,High,Rinse mouth and administer antihistamine
+dog,mouth,Dry Mouth (Xerostomia),"Dry, sticky mouth",Thick saliva,Bad breath,Difficulty swallowing,Cracking lips,Gum irritation,Tongue sticking to roof,Low,"Hydration, apply coconut oil to gums"
+dog,mouth,Gum Hyperplasia,Overgrowth of gum tissue,Bleeding,Bad breath,Pain while chewing,Loose teeth,Swollen gums,Difficulty eating,Medium,"Soft food, dental chews"
+dog,mouth,Oral Abscess,Pus-filled lump,Bad breath,Pain while chewing,Swollen gums,Difficulty eating,Drooling,Bleeding,High,"Apply warm compress, soft food"
+dog,mouth,Canine Calcinosis Circumscripta,Hard calcium deposits in mouth,Swelling,Pain while chewing,Drooling,Swollen gums,Bleeding,Difficulty eating,High,Monitor and soft food
+dog,mouth,Epulis (Oral Growth),Lump on gum line,Swollen gums,Bleeding,Pain while chewing,Difficulty eating,Drooling,Bad breath,Medium,Monitor and soft food
+dog,mouth,Lip Tumor,Swollen lips,Bleeding,Pain while eating,Visible lump,Drooling,Bad breath,Discomfort,Medium,"Monitor, soft food"
+dog,,,,,,,,,,,
+dog,tail,Tail Wagging Disorder,Excessive wagging,Weakness in tail,Swelling,Soreness,Bruising,Difficulty moving tail,Lethargy,Moderate,"Rest, limit activity, warm compress"
+dog,tail,Limp Tail Syndrome,Sudden limp tail,Tail held low,Pain when touched,Loss of movement,Swollen base,Reluctance to wag,Inactivity,Severe,"Warm compress, NSAIDs, rest"
+dog,tail,Tail Trauma,Bruising,Swelling,Open wound,Tail sensitivity,Fur loss,Bleeding,Pain,Severe,"Clean wound, bandage, limit movement"
+dog,tail,Anal Gland Infection,Scooting,Tail biting,Tail swelling,Foul odor,Licking,Redness,Discomfort,Moderate,"Clean area, warm compress, dietary changes"
+dog,tail,Flea Allergy Dermatitis,Tail itching,Hair loss around tail,Scratching,Red patches,Biting at tail,Skin irritation,Scabs,Mild,"Anti-itch spray, flea prevention, bath"
+dog,tail,Hematoma (Tail),Swollen tail tip,Bruising,Pain when touched,Blood accumulation,Tail swelling,Lethargy,Discomfort,Severe,"Apply cold compress, rest, monitor closely"
+dog,tail,Dermatitis,Tail skin redness,Itchy tail,Scaly skin,Tail irritation,Hair loss,Dry patches,Flaking skin,Mild,"Hydrocortisone cream, bathe with medicated shampoo"
+dog,tail,Fractured Tail,Swollen tail,Lack of movement,Painful tail,Bruising,Visible fracture,Open wounds,Lethargy,Severe,"Immobilize tail, bandage, rest"
+dog,tail,Broken Tail,Bent tail,Swollen base,Unable to wag,Bruising,Pain,Tail dragging,Tail shaking,Severe,"Bandage, stabilize tail, minimize movement"
+dog,tail,Allergic Reaction,Tail hives,Swollen tail skin,Redness,Itchy tail,Swelling,Bumps,Discomfort,Moderate,"Antihistamines, oatmeal bath, cold compress"
+dog,tail,Insect Bite (Tail),Swelling,Redness,Itchy spot,Bite mark visible,Tail biting,Skin rash,Pain,Mild,"Clean bite, apply ice, topical cream"
+dog,tail,Hot Spots,Moist skin lesions,Red patches,Hair loss,Oozing tail wound,Pain,Itching,Swelling,Moderate,"Clean area, apply topical antibiotics"
+dog,tail,Fungal Infection,Ring-shaped patches,Red skin,Hair loss,Crusty areas,Skin flaking,Tail irritation,Foul odor,Mild,"Antifungal cream, keep area dry"
+dog,tail,Skin Infection,Pus-filled sores,Red patches,Painful spots,Tail itching,Scabs,Hair loss,Skin redness,Moderate,"Clean wound, antibacterial ointment"
+dog,tail,Tail Paralysis,Sudden immobility,Limp tail,Loss of sensation,Swelling,No wagging,Pain,Lethargy,Severe,"Rest, limit movement, NSAIDs"
+dog,tail,Cold Tail,"Limp, cold tail",Pain when touched,Lack of movement,Discomfort,Swelling,Tail held low,Shivering,Moderate,"Warm compress, rest, monitor for improvement"
+dog,tail,Skin Allergy,Itchy tail,Red skin,Bumps on tail,Tail biting,Dry skin,Swelling,Hair loss,Mild,"Antihistamines, hypoallergenic diet"
+dog,tail,Tick Infestation,Visible ticks,Tail scratching,Swelling,Red spots,Lethargy,Hair loss,Irritation,Mild,"Remove ticks, apply tick prevention"
+dog,tail,Mange,Hair loss patches,Tail itching,Scabs,Crusty skin,Redness,Inflammation,Irritation,Moderate,"Medicated shampoo, anti-parasitic treatments"
+dog,tail,Tail Abrasion,Skin scraped,Redness,Scabs forming,Painful tail,Irritation,Tail licking,Swelling,Mild,"Clean with antiseptic, bandage"
+dog,tail,Abscess (Tail),Swollen tail lump,Pus discharge,Painful to touch,Redness,Inflammation,Warm tail,Fever,Severe,"Clean wound, apply warm compress, seek vet if worsens"
+dog,tail,Tail Neoplasia,Tail mass,Lump growth,Tail discomfort,Skin ulcer,Redness,Swelling,Loss of hair,Severe,"Bandage, limit movement, vet examination"
+dog,tail,Infected Tail Wound,Pus-filled wound,Redness,Swelling,Pain,Tail irritation,Warm sensation,Lethargy,Severe,"Clean with antiseptic, apply bandage, monitor"
+dog,tail,Lyme Disease,Lethargy,Swollen joints,Tail stiffness,Fever,Tail discomfort,Loss of appetite,Fatigue,Severe,"Antibiotics, monitor for worsening symptoms"
+dog,tail,Tail Avulsion,Tail tearing,Loss of tail movement,Severe pain,Bruising,Bleeding,Swelling,Lethargy,Severe,"Clean wound, immobilize tail, vet care needed"
+dog,tail,Muscle Strain (Tail),Tail stiffness,Painful movement,Weak tail wagging,Soreness,Swelling,Reluctance to move tail,Tail shaking,Moderate,"Rest, warm compress, limit tail movement"
+dog,tail,Seborrhea (Tail),Greasy skin,Flaky skin,Red patches,Itching,Hair loss,Skin odor,Tail scaling,Mild,"Medicated shampoo, omega-3 fatty acids"
+dog,tail,Tail Necrosis,Tail tissue death,Blackened skin,Foul odor,Dead tissue,Swelling,Pain,Open wound,Severe,"Clean area, seek veterinary care immediately"
+dog,tail,Bacterial Infection,Tail swelling,Pus discharge,Painful spots,Red skin,Fever,Tail soreness,Hair loss,Severe,"Antibacterial ointment, warm compress"
+dog,tail,Tail Frostbite,"Cold, stiff tail",Pale skin patches,Tail held low,Redness when warm,Blistering,Pain,Lack of movement,Severe,"Gradual warming, avoid heat sources, monitor"
